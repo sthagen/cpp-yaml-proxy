@@ -6,9 +6,6 @@
 
 #include <doctest/doctest.h>
 
-#include <iostream>
-#include <string>
-
 #include <yaml-cpp/yaml.h>
 
 auto CONFIG = R"(---
