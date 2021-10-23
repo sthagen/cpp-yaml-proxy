@@ -23,7 +23,7 @@ include(${CPM_DOWNLOAD_LOCATION})
 
 CPMAddPackage(
   NAME yaml-cpp
-  GIT_REPOSITORY https://github.com/sthagen/yaml-cpp.git
+  GIT_REPOSITORY https://github.com/sthagen/jbeder-yaml-cpp.git
   VERSION 0.6.4                                  
   # 0.6.4 is not released yet, so use the latest approved commit
   GIT_TAG 98acc5a8874faab28b82c28936f4b400b389f5d6 
